@@ -1,4 +1,5 @@
-# E-Commerce is a simple application about online transactions that developed by Android platform.
+# E-Commerce
+ A simple application about online transactions that developed by Android platform.
 
 The functional feeatures of the project is as the following:
 Sign up & login facilities.
